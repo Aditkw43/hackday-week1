@@ -30,7 +30,7 @@
             <!-- <p style="font-size: 15px;">Which one do you want to login?</p> -->
             <!-- <div class="social-icons center"> -->
             <div class="flex-center">
-                <button class="social-icon" id="google" onclick=""><span class="fa fa-google"></span></button>
+                <button class="social-icon" id="google"><span class="fa fa-google"></span></button>
                 <!-- <button class="social-icon" id="facebook" onclick="fb_login()"><span class="fa fa-facebook"></span></button> -->
                 <!-- <button class="social-icon" id="github" onclick="github_login()"><span class="fa fa-github"></span></button> -->
             </div>
@@ -76,7 +76,6 @@
 
     <!-- <script async defer src="https://apis.google.com/js/api.js" onload="this.onload=function(){};handleClientLoad()" onreadystatechange="if (this.readyState === 'complete') this.onload()">
     </script> -->
-
 </body>
 
 </html>
